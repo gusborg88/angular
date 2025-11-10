@@ -313,7 +313,7 @@ This target tells the builder to copy the `package.json` file.
   - `source` - The existing file you are copying.
   - `destination` - The path you want to copy to.
 
-< header="angular.json" language="json">
+<docs-code header="angular.json" language="json">
 
 {
 "projects": {
